@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha" alt="sharada-marasinha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sharadamarasin2" target="blank"><img src="https://img.shields.io/twitter/follow/@sharadamarasin2?logo=twitter&style=for-the-badge" alt="@sharadamarasin2" /></a> </p>
+
 
 - 📫 How to reach me **sharadamarasinha@gmail.com**
+
 <a href="https://app.daily.dev/marasinha"><img src="https://api.daily.dev/devcards/b2351c182c6b40d0ba60a5a446fe9c1f.png?r=1dn" width="400" alt="Sharada Marasinha's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
