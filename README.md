@@ -39,13 +39,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sharadamarG"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharadamarG" /></a><a href="https://ko-fi.com/sharadamarasinha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sharadamarG" /></a></p><br><br>
-
+<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&show_icons=true&locale=en&layout=compact" alt="sharada-marasinha" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&locale=en" alt="sharada-marasinha" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&" alt="sharada-marasinha" /></p>
-
+<br>
 <img alt="dsmark" align="left"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
+
