@@ -2,22 +2,15 @@
 <h3 align="center">A passionate FullStackDeveloper from Srilanka</h3>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharada-marasinha&label=Profile%20views&color=0e75b6&style=flat" alt="sharada-marasinha" />
-</p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha" alt="sharada-marasinha" /></a> </p>
 
 
-
-- 📫 How to reach me **sharadamarasinha@gmail.com**
-
-<a href="https://app.daily.dev/marasinha"><img src="https://api.daily.dev/devcards/b2351c182c6b40d0ba60a5a446fe9c1f.png?r=1dn" width="400" alt="Sharada Marasinha's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/marasinha"><img src="https://api.daily.dev/devcards/b2351c182c6b40d0ba60a5a446fe9c1f.png?r=1dn" width="400" alt="Sharada Marasinha's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,6 +42,9 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&" alt="sharada-marasinha" /></p>
 <br>
-<img alt="dsmark" align="left"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha" alt="sharada-marasinha" /></a> </p>
+- 📫 How to reach me **sharadamarasinha@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharada-marasinha&label=Profile%20views&color=0e75b6&style=flat" alt="sharada-marasinha" />
+</p>
 
