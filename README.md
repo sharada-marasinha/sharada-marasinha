@@ -7,21 +7,12 @@
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
-
-<br>
-
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sharada-marasinha" height="192px"/>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharada-marasinha" alt="sharada-marasinha" />
-</p>
+
   <br/>
   <p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -45,7 +36,9 @@
   <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/sharadamarG"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharadamarG" /></a><a href="https://ko-fi.com/sharadamarasinha"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sharadamarG" /></a></p><br><br>
 <br><br>
-
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharada-marasinha" alt="sharada-marasinha" />
+</p>
 
 📫 How to reach me **sharadamarasinha@gmail.com**
 
