@@ -5,12 +5,16 @@
 
 
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
+
+<br>
+<br>
 
 
 
 
 
-<a align="center" href="https://app.daily.dev/marasinha"><img src="https://api.daily.dev/devcards/b2351c182c6b40d0ba60a5a446fe9c1f.png?r=1dn" width="400" alt="Sharada Marasinha's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,13 +39,20 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&show_icons=true&locale=en&layout=compact" alt="sharada-marasinha" /></p>
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&locale=en" alt="sharada-marasinha" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&" alt="sharada-marasinha" /></p>
-<br>
+
+## 📊 Github Stats
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sharada-marasinha" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha" alt="sharada-marasinha" /></a> </p>
 - 📫 How to reach me **sharadamarasinha@gmail.com**
