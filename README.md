@@ -1,17 +1,18 @@
 <h1 align="center">Hi, I'm Sharada Marasinha</h1>
 <h3 align="center">A passionate FullStackDeveloper from Srilanka</h3>
 
-
-
-
 --------------------------------------
 ## 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sharada-marasinha" height="192px"/>
+
+<p align="center">
+  <a href="https://app.daily.dev/marasinha"><img  src="https://api.daily.dev/devcards/b2351c182c6b40d0ba60a5a446fe9c1f.png?r=66r" width="250" alt="Sharada Marasinha's Dev Card"/></a>
 
   <br/>
   <p align="center">
@@ -39,6 +40,8 @@
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharada-marasinha" alt="sharada-marasinha" />
 </p>
+
+
 
 📫 How to reach me **sharadamarasinha@gmail.com**
 
