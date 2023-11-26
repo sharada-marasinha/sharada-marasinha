@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sharada</h1>
-<h3 align="center">A passionate FullStackDeveloper from Srilanka</h3>
+<h3 align="center">A passionate FullStackDeveloper</h3>
 
 --------------------------------------
 ## 🔥 Streak Stats
