@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Sharada</h1>
 <h3 align="center">A passionate FullStackDeveloper</h3>
 
---------------------------------------
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
