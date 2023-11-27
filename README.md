@@ -20,13 +20,9 @@
   </p>
   <br><br>
 
-## :trophy: Git profile Trophies
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha&layout=compact&theme=algolia" alt="sharada-marasinha" /></a> </p>
 
 <br><br>
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@sharadamarasin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sharadamarasin2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharada-marasinha-4a9758170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharada-marasinha-4a9758170" height="30" width="40" /></a>
@@ -34,7 +30,6 @@
 <a href="https://fb.com/sharada.marasinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharada.marasinha" height="30" width="40" /></a>
 <a href="https://instagram.com/sharada marasinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharada marasinha" height="30" width="40" /></a>
 <br><br>
-  <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/sharadamarG"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharadamarG" /></a><a href="https://ko-fi.com/sharadamarasinha"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sharadamarG" /></a></p><br><br>
 <br><br>
   <p align="center">
