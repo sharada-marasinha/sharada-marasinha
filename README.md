@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sharada</h1>
+<h1 align="center">Hi, I'm Sharada</h1>
 <h3 align="center">A passionate FullStackDeveloper</h3>
 
 ## 🔥 Streak Stats
