@@ -17,10 +17,6 @@
 
   <br/>
   <p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-  <br><br>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha&layout=compact&theme=algolia" alt="sharada-marasinha" /></a> </p>
 
 <br><br>
