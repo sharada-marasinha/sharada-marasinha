@@ -1,6 +1,6 @@
 [![An image of @sharadamarasinha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharadamarasinha)](https://holopin.io/@sharadamarasinha)
 
-<h1 align="center">Hi, I'm Sharada</h1>
+<h2 align="center">Hi, I'm Sharada</h2>
 <h4 align="center">FullStack Developer | Assistant Lecturer</h4>
 
 ## 🔥 Streak Stats
