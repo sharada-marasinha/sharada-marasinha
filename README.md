@@ -11,11 +11,7 @@
 <br/>
   &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sharada-marasinha" height="192px"/>
-
-<p align="center">
-  <a href="https://app.daily.dev/marasinha"><img  src="https://api.daily.dev/devcards/b2351c182c6b40d0ba60a5a446fe9c1f.png?r=66r" width="250" alt="Sharada Marasinha's Dev Card"/></a>
-
-  <br/>
+    
   <p align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha&layout=compact&theme=algolia" alt="sharada-marasinha" /></a> </p>
 
