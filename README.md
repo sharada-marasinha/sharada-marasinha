@@ -1,8 +1,6 @@
 <h2 align="center">Hi, I'm Sharada</h2>
 <h4 align="center">FullStack Developer | Assistant Lecturer</h4>
 
-## 🔥 Streak Stats
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
