@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Sharada</h2>
+<h1 align="center">Hi, I'm Sharada</h1>
 <h4 align="center">FullStack Developer | Assistant Lecturer</h4>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
