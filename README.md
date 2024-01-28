@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sharada</h1>
 <h3 align="center">FullStack Developer | Assistant Lecturer</h3>
 
-<!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sharada+Marasinha;Fullstack+Developer.;youtuber.;SEO-Search+Engine+Optimizer.;iCET-+%F0%9F%91%8B%2C+Institute+of+Computer+Engineering+Technology)](https://git.io/typing-svg)">
- -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharada-marasinha&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
