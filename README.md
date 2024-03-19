@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sharada Marasinha</h1>
+<h1 align="center">Hello, I'm Sharada Marasinghe</h1>
 <h3 align="center">FullStack Developer & 
   Lecturer</h3>
 
