@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sharadha Marasinghe</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">e-|FullStack Developer|-e</h3>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
   <p align="center">
