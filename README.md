@@ -1,7 +1,7 @@
 <h1 align="center">Hello,<br> I'm Sharadha Marasinghe</h1>
 <h3 align="center">-| FullStack Developer |-</h3>
-<h6>( :</h6>
-<h6 align="right">: )</h6>
+<h6>( :</h6><h6 align="right">: )</h6>
+
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" /></p>
   <p align="center">
