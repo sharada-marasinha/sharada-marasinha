@@ -23,11 +23,13 @@
 <br><br>
 <p align="center"><a href="https://www.buymeacoffee.com/sharadamarG"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharadamarG" /></a><a href="https://ko-fi.com/sharadamarasinha"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sharadamarG" /></a></p><br><br>
 <br><br>
+<h6>( : : )</h6>
+<br><br>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharada-marasinha" alt="sharada-marasinha" />
 </p>
 
-<h6>( : : )</h6>
+
 
 📫 How to reach me **sharadamarasinha@gmail.com**
 
