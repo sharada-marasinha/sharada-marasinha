@@ -1,5 +1,5 @@
 <h1 align="center">Hello,<br> I'm Sharadha Marasinghe</h1>
-<h3 align="center">-| FullStack Developer |-</h3>
+<h3 align="center">-||> FullStack Developer <||-</h3>
 <h6>( : : )</h6>
 
 
