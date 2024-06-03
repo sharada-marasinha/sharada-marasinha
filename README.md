@@ -60,7 +60,5 @@
 <p align="center">
   <a href="https://www.nasa.gov/" target="_blank">
     <img src="https://spaceandbeyondbox.com/wp-content/uploads/2021/02/1000px-NASA_Wormball_logo.svg.png" alt="NASA logo" width="100"/>
-    <img src="https://th.bing.com/th/id/OIP.pN2JN9Fps3s6-ZCwI50aOQAAAA?pid=ImgDet&w=430&h=430&rs=1" alt="NASA meatball logo" width="100"/>
-    <img src="https://th.bing.com/th/id/R.60ac6d42558191cb4f244d21f141c397?rik=hpE2Un9kJ5ZM%2bg&riu=http%3a%2f%2fclipart-library.com%2fimages%2fdi9raLMjT.jpg&ehk=rRona30Y2su%2bk%2bPk1G5ZyfeVaKI489uWCpKrsMoNw4E%3d&risl=&pid=ImgRaw&r=0" alt="NASA worm logo" width="100"/>
   </a>
 </p>
