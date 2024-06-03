@@ -57,12 +57,6 @@
 <h2 align="center">📫 How to reach me</h2>
 <p align="center"><strong>sharadamarasinha@gmail.com</strong></p>
 
-<h2 align="center">📰 NASA News</h2>
-<p align="center">
-  <a href="https://www.nasa.gov/rss/dyn/breaking_news.rss" target="_blank">
-    <img src="https://via.placeholder.com/800x400?text=NASA+Breaking+News" alt="NASA News" />
-  </a>
-</p>
 <p align="center">
   <a href="https://www.nasa.gov/" target="_blank">
     <img src="https://spaceandbeyondbox.com/wp-content/uploads/2021/02/1000px-NASA_Wormball_logo.svg.png" alt="NASA logo" width="100"/>
