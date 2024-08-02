@@ -1,8 +1,8 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/sharada-marasinha.svg)](https://user-badge.committers.top/sri_lanka/sharada-marasinha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sharada-marasinha/)
 
-<h1 align="center">ツ Hello,I'm Sharadha</h1>
-<h3 align="center">---|-:|:-||-> FullStack Developer <-||-:|:|---</h3>
+<h1 align="center">ツ Hello, I'm Sharadha</h1>
+<h3 align="center">---|-:|:-||-> Full-Stack Developer <-||-:|:|---</h3>
 <h6 align="center">( : : )</h6>
 
 <p align="center">
