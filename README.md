@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sharada-marasinha/)
 
 <h1 align="center">ツ Hello, I'm Sharadha</h1>
-<h3 align="center">---|-:|:-||-> Full-Stack Developer <-||-:|:-|---</h3>
+<h3 align="center">---|--> Full-Stack Developer <--|---</h3>
 <h7 align="center">( : : )</h7>
 
 <p align="center">
