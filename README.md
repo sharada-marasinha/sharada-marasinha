@@ -57,9 +57,3 @@
 
 <h2 align="center">📫 How to reach me</h2>
 <p align="center"><strong>sharadamarasinha@gmail.com</strong></p>
-
-<p align="center">
-  <a href="https://www.nasa.gov/" target="_blank">
-    <img src="https://spaceandbeyondbox.com/wp-content/uploads/2021/02/1000px-NASA_Wormball_logo.svg.png" alt="NASA logo" width="100"/>
-  </a>
-</p>
