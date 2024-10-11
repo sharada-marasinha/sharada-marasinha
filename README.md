@@ -56,4 +56,4 @@
 </p>
 
 <h2 align="center">📫 How to reach me</h2>
-<p align="center"><strong>sharadamarasinha@gmail.com</strong></p>
+<p align="center"><strong><a href="sharadamarasinha@gmail.com">sharadamarasinha@gmail.com</a></strong></p>
