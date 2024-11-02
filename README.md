@@ -16,12 +16,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-marasinha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sharada-marasinha" height="192px"/>
 </p>
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sharada-marasinha&layout=compact&theme=algolia" alt="sharada-marasinha" />
-  </a>
-</p> -->
-
 <p align="center">
   <a href="https://twitter.com/@sharadamarasin2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sharadamarasin2" height="30" width="40" />
