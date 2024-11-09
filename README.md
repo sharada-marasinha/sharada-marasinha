@@ -3,7 +3,7 @@
 
 <h1 align="center">ツ Hello, I'm Sharadha</h1>
 <h3 align="center">---|--> Full-Stack Developer <--|---</h3>
-<h7 align="center">( : : )</h7>
+<h6 align="center">( : : )</h6>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinha&theme=algolia" alt="sharada-marasinha" />
