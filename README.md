@@ -1,8 +1,8 @@
 <!-- BADGES -->
 <p align="center">
-  <a href="https://user-badge.committers.top/sri_lanka/sharada-marasinha">
+<!--   <a href="https://user-badge.committers.top/sri_lanka/sharada-marasinha">
     <img src="https://user-badge.committers.top/sri_lanka/sharada-marasinha.svg" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/sharada-marasinha/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-00ff00?logo=linkedin&style=flat" />
   </a>
