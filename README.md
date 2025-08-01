@@ -10,9 +10,9 @@
 
 <!-- HEADER -->
 <div align="center" style="color:#00ff00; font-family:'Courier New', monospace; border: 2px solid #00ff00; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto;">
-  <h1>👽 Sharadha Marasinha</h1>
+  <h1>Sharadha Marasinha</h1>
   <h2>⚡ Full-Stack Developer | Code Commander ⚡</h2>
-  <p>🪐 From Sri Lanka - Building digital galaxies through code 🪐</p>
+  <p>From Sri Lanka - Building digital galaxies through code</p>
   <p style="font-size: 1.2rem;">( : : )</p>
 </div>
 
